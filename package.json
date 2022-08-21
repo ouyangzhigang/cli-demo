@@ -1,0 +1,21 @@
+{
+  "name": "cli-demo",
+  "version": "1.0.0",
+  "description": "cli tools demo",
+  "main": "index.js",
+  "bin": {
+    "shark": "./dist/bin/shark.ts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "tool",
+    "demo"
+  ],
+  "author": "Voyagergle",
+  "license": "ISC"
+}
